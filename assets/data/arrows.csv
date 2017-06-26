@@ -1,0 +1,751 @@
+"","or_area","as_area","year","tot_compl","or_lat","or_long","as_lat","as_long"
+"2","Asia","Africa",1989,1187,30,100,5,25
+"3","Europe","Africa",1989,135,50,10,5,25
+"4","Latin America","Africa",1989,169,-15,-60,5,25
+"5","North America","Africa",1989,3,45,-100,5,25
+"6","Oceania","Africa",1989,1,-20,135,5,25
+"7","Africa","Asia",1989,6884.5,5,25,30,100
+"9","Europe","Asia",1989,434,50,10,30,100
+"10","Latin America","Asia",1989,35,-15,-60,30,100
+"11","North America","Asia",1989,7,45,-100,30,100
+"12","Oceania","Asia",1989,5,-20,135,30,100
+"13","Africa","Europe",1989,60438.5,5,25,50,10
+"14","Asia","Europe",1989,207524,30,100,50,10
+"16","Latin America","Europe",1989,31288,-15,-60,50,10
+"17","North America","Europe",1989,36,45,-100,50,10
+"18","Oceania","Europe",1989,55,-20,135,50,10
+"19","Africa","Latin America",1989,5055.5,5,25,-15,-60
+"20","Asia","Latin America",1989,721,30,100,-15,-60
+"21","Europe","Latin America",1989,598.5,50,10,-15,-60
+"23","North America","Latin America",1989,14,45,-100,-15,-60
+"24","Oceania","Latin America",1989,1,-20,135,-15,-60
+"25","Africa","North America",1989,44323,5,25,45,-100
+"26","Asia","North America",1989,326085,30,100,45,-100
+"27","Europe","North America",1989,145639,50,10,45,-100
+"28","Latin America","North America",1989,43003.5,-15,-60,45,-100
+"30","Oceania","North America",1989,47,-20,135,45,-100
+"31","Africa","Oceania",1989,2004.5,5,25,-20,135
+"32","Asia","Oceania",1989,32644.5,30,100,-20,135
+"33","Europe","Oceania",1989,9512,50,10,-20,135
+"34","Latin America","Oceania",1989,177,-15,-60,-20,135
+"35","North America","Oceania",1989,3,45,-100,-20,135
+"38","Asia","Africa",1990,1273,30,100,5,25
+"39","Europe","Africa",1990,134,50,10,5,25
+"40","Latin America","Africa",1990,197,-15,-60,5,25
+"41","North America","Africa",1990,3,45,-100,5,25
+"42","Oceania","Africa",1990,1,-20,135,5,25
+"43","Africa","Asia",1990,10358,5,25,30,100
+"45","Europe","Asia",1990,399,50,10,30,100
+"46","Latin America","Asia",1990,36,-15,-60,30,100
+"47","North America","Asia",1990,7,45,-100,30,100
+"48","Oceania","Asia",1990,5,-20,135,30,100
+"49","Africa","Europe",1990,63464,5,25,50,10
+"50","Asia","Europe",1990,208033,30,100,50,10
+"52","Latin America","Europe",1990,31451,-15,-60,50,10
+"53","North America","Europe",1990,53,45,-100,50,10
+"54","Oceania","Europe",1990,61,-20,135,50,10
+"55","Africa","Latin America",1990,4692.5,5,25,-15,-60
+"56","Asia","Latin America",1990,729,30,100,-15,-60
+"57","Europe","Latin America",1990,612.5,50,10,-15,-60
+"59","North America","Latin America",1990,13,45,-100,-15,-60
+"60","Oceania","Latin America",1990,1,-20,135,-15,-60
+"61","Africa","North America",1990,45947.5,5,25,45,-100
+"62","Asia","North America",1990,323261,30,100,45,-100
+"63","Europe","North America",1990,192942.5,50,10,45,-100
+"64","Latin America","North America",1990,50830,-15,-60,45,-100
+"66","Oceania","North America",1990,47,-20,135,45,-100
+"67","Africa","Oceania",1990,2125,5,25,-20,135
+"68","Asia","Oceania",1990,33405,30,100,-20,135
+"69","Europe","Oceania",1990,10150,50,10,-20,135
+"70","Latin America","Oceania",1990,177.5,-15,-60,-20,135
+"71","North America","Oceania",1990,3,45,-100,-20,135
+"74","Asia","Africa",1991,1274,30,100,5,25
+"75","Europe","Africa",1991,147,50,10,5,25
+"76","Latin America","Africa",1991,196,-15,-60,5,25
+"77","North America","Africa",1991,2,45,-100,5,25
+"78","Oceania","Africa",1991,1,-20,135,5,25
+"79","Africa","Asia",1991,38002,5,25,30,100
+"81","Europe","Asia",1991,1641.5,50,10,30,100
+"82","Latin America","Asia",1991,35,-15,-60,30,100
+"83","North America","Asia",1991,7,45,-100,30,100
+"84","Oceania","Asia",1991,5,-20,135,30,100
+"85","Africa","Europe",1991,70853.5,5,25,50,10
+"86","Asia","Europe",1991,231375,30,100,50,10
+"88","Latin America","Europe",1991,30283.5,-15,-60,50,10
+"89","North America","Europe",1991,62,45,-100,50,10
+"90","Oceania","Europe",1991,59,-20,135,50,10
+"91","Africa","Latin America",1991,4439,5,25,-15,-60
+"92","Asia","Latin America",1991,798,30,100,-15,-60
+"93","Europe","Latin America",1991,714.5,50,10,-15,-60
+"95","North America","Latin America",1991,14,45,-100,-15,-60
+"96","Oceania","Latin America",1991,1,-20,135,-15,-60
+"97","Africa","North America",1991,50925,5,25,45,-100
+"98","Asia","North America",1991,331520.5,30,100,45,-100
+"99","Europe","North America",1991,231289,50,10,45,-100
+"100","Latin America","North America",1991,54120,-15,-60,45,-100
+"102","Oceania","North America",1991,46,-20,135,45,-100
+"103","Africa","Oceania",1991,2264.5,5,25,-20,135
+"104","Asia","Oceania",1991,31982.5,30,100,-20,135
+"105","Europe","Oceania",1991,11367,50,10,-20,135
+"106","Latin America","Oceania",1991,180,-15,-60,-20,135
+"107","North America","Oceania",1991,3,45,-100,-20,135
+"110","Asia","Africa",1992,1374.5,30,100,5,25
+"111","Europe","Africa",1992,249.5,50,10,5,25
+"112","Latin America","Africa",1992,176,-15,-60,5,25
+"113","North America","Africa",1992,2,45,-100,5,25
+"114","Oceania","Africa",1992,1,-20,135,5,25
+"115","Africa","Asia",1992,71985,5,25,30,100
+"117","Europe","Asia",1992,17456.5,50,10,30,100
+"118","Latin America","Asia",1992,36,-15,-60,30,100
+"119","North America","Asia",1992,7,45,-100,30,100
+"120","Oceania","Asia",1992,5,-20,135,30,100
+"121","Africa","Europe",1992,81021.5,5,25,50,10
+"122","Asia","Europe",1992,253728,30,100,50,10
+"124","Latin America","Europe",1992,25871,-15,-60,50,10
+"125","North America","Europe",1992,62,45,-100,50,10
+"126","Oceania","Europe",1992,61,-20,135,50,10
+"127","Africa","Latin America",1992,4260.5,5,25,-15,-60
+"128","Asia","Latin America",1992,791,30,100,-15,-60
+"129","Europe","Latin America",1992,788,50,10,-15,-60
+"131","North America","Latin America",1992,13,45,-100,-15,-60
+"132","Oceania","Latin America",1992,1,-20,135,-15,-60
+"133","Africa","North America",1992,54508.5,5,25,45,-100
+"134","Asia","North America",1992,339575.5,30,100,45,-100
+"135","Europe","North America",1992,293710.5,50,10,45,-100
+"136","Latin America","North America",1992,57000,-15,-60,45,-100
+"138","Oceania","North America",1992,63,-20,135,45,-100
+"139","Africa","Oceania",1992,2319.5,5,25,-20,135
+"140","Asia","Oceania",1992,33703,30,100,-20,135
+"141","Europe","Oceania",1992,15238.5,50,10,-20,135
+"142","Latin America","Oceania",1992,183,-15,-60,-20,135
+"143","North America","Oceania",1992,3,45,-100,-20,135
+"146","Asia","Africa",1993,1419,30,100,5,25
+"147","Europe","Africa",1993,274,50,10,5,25
+"148","Latin America","Africa",1993,52,-15,-60,5,25
+"149","North America","Africa",1993,2,45,-100,5,25
+"150","Oceania","Africa",1993,1,-20,135,5,25
+"151","Africa","Asia",1993,70537.5,5,25,30,100
+"153","Europe","Asia",1993,20320,50,10,30,100
+"154","Latin America","Asia",1993,35,-15,-60,30,100
+"155","North America","Asia",1993,7,45,-100,30,100
+"156","Oceania","Asia",1993,5,-20,135,30,100
+"157","Africa","Europe",1993,106239,5,25,50,10
+"158","Asia","Europe",1993,280424.5,30,100,50,10
+"160","Latin America","Europe",1993,23875.5,-15,-60,50,10
+"161","North America","Europe",1993,68,45,-100,50,10
+"162","Oceania","Europe",1993,59.5,-20,135,50,10
+"163","Africa","Latin America",1993,4162,5,25,-15,-60
+"164","Asia","Latin America",1993,794.5,30,100,-15,-60
+"165","Europe","Latin America",1993,830,50,10,-15,-60
+"167","North America","Latin America",1993,13,45,-100,-15,-60
+"168","Oceania","Latin America",1993,1,-20,135,-15,-60
+"169","Africa","North America",1993,60904,5,25,45,-100
+"170","Asia","North America",1993,354943.5,30,100,45,-100
+"171","Europe","North America",1993,317754.5,50,10,45,-100
+"172","Latin America","North America",1993,56273,-15,-60,45,-100
+"174","Oceania","North America",1993,133,-20,135,45,-100
+"175","Africa","Oceania",1993,2813.5,5,25,-20,135
+"176","Asia","Oceania",1993,35248.5,30,100,-20,135
+"177","Europe","Oceania",1993,16562,50,10,-20,135
+"178","Latin America","Oceania",1993,186,-15,-60,-20,135
+"179","North America","Oceania",1993,4,45,-100,-20,135
+"182","Asia","Africa",1994,1377.5,30,100,5,25
+"183","Europe","Africa",1994,315,50,10,5,25
+"184","Latin America","Africa",1994,36.5,-15,-60,5,25
+"185","North America","Africa",1994,2,45,-100,5,25
+"186","Oceania","Africa",1994,1,-20,135,5,25
+"187","Africa","Asia",1994,64176,5,25,30,100
+"189","Europe","Asia",1994,24752,50,10,30,100
+"190","Latin America","Asia",1994,35,-15,-60,30,100
+"191","North America","Asia",1994,7,45,-100,30,100
+"192","Oceania","Asia",1994,5,-20,135,30,100
+"193","Africa","Europe",1994,120541.5,5,25,50,10
+"194","Asia","Europe",1994,325795.5,30,100,50,10
+"196","Latin America","Europe",1994,23897.5,-15,-60,50,10
+"197","North America","Europe",1994,74,45,-100,50,10
+"198","Oceania","Europe",1994,61,-20,135,50,10
+"199","Africa","Latin America",1994,4017,5,25,-15,-60
+"200","Asia","Latin America",1994,851,30,100,-15,-60
+"201","Europe","Latin America",1994,815.5,50,10,-15,-60
+"203","North America","Latin America",1994,12,45,-100,-15,-60
+"204","Oceania","Latin America",1994,1,-20,135,-15,-60
+"205","Africa","North America",1994,66183.5,5,25,45,-100
+"206","Asia","North America",1994,366416,30,100,45,-100
+"207","Europe","North America",1994,323580,50,10,45,-100
+"208","Latin America","North America",1994,56970,-15,-60,45,-100
+"210","Oceania","North America",1994,165,-20,135,45,-100
+"211","Africa","Oceania",1994,3228.5,5,25,-20,135
+"212","Asia","Oceania",1994,37177,30,100,-20,135
+"213","Europe","Oceania",1994,19775,50,10,-20,135
+"214","Latin America","Oceania",1994,189,-15,-60,-20,135
+"215","North America","Oceania",1994,3,45,-100,-20,135
+"218","Asia","Africa",1995,1534,30,100,5,25
+"219","Europe","Africa",1995,271,50,10,5,25
+"220","Latin America","Africa",1995,39,-15,-60,5,25
+"221","North America","Africa",1995,2,45,-100,5,25
+"222","Oceania","Africa",1995,1,-20,135,5,25
+"223","Africa","Asia",1995,63661,5,25,30,100
+"225","Europe","Asia",1995,13179,50,10,30,100
+"226","Latin America","Asia",1995,31,-15,-60,30,100
+"227","North America","Asia",1995,7,45,-100,30,100
+"228","Oceania","Asia",1995,5,-20,135,30,100
+"229","Africa","Europe",1995,107396,5,25,50,10
+"230","Asia","Europe",1995,404019.5,30,100,50,10
+"232","Latin America","Europe",1995,24143.5,-15,-60,50,10
+"233","North America","Europe",1995,78,45,-100,50,10
+"234","Oceania","Europe",1995,61,-20,135,50,10
+"235","Africa","Latin America",1995,3826,5,25,-15,-60
+"236","Asia","Latin America",1995,879,30,100,-15,-60
+"237","Europe","Latin America",1995,712,50,10,-15,-60
+"239","North America","Latin America",1995,12.5,45,-100,-15,-60
+"240","Oceania","Latin America",1995,1,-20,135,-15,-60
+"241","Africa","North America",1995,65896,5,25,45,-100
+"242","Asia","North America",1995,342838,30,100,45,-100
+"243","Europe","North America",1995,268918,50,10,45,-100
+"244","Latin America","North America",1995,55618,-15,-60,45,-100
+"246","Oceania","North America",1995,230,-20,135,45,-100
+"247","Africa","Oceania",1995,3822,5,25,-20,135
+"248","Asia","Oceania",1995,38995,30,100,-20,135
+"249","Europe","Oceania",1995,23428,50,10,-20,135
+"250","Latin America","Oceania",1995,198,-15,-60,-20,135
+"251","North America","Oceania",1995,4,45,-100,-20,135
+"254","Asia","Africa",1996,3691,30,100,5,25
+"255","Europe","Africa",1996,280,50,10,5,25
+"256","Latin America","Africa",1996,38,-15,-60,5,25
+"257","North America","Africa",1996,2,45,-100,5,25
+"258","Oceania","Africa",1996,2,-20,135,5,25
+"259","Africa","Asia",1996,57706.5,5,25,30,100
+"261","Europe","Asia",1996,8867.5,50,10,30,100
+"262","Latin America","Asia",1996,30,-15,-60,30,100
+"263","North America","Asia",1996,7,45,-100,30,100
+"264","Oceania","Asia",1996,5,-20,135,30,100
+"265","Africa","Europe",1996,123035,5,25,50,10
+"266","Asia","Europe",1996,485683.5,30,100,50,10
+"268","Latin America","Europe",1996,22620.5,-15,-60,50,10
+"269","North America","Europe",1996,87,45,-100,50,10
+"270","Oceania","Europe",1996,62,-20,135,50,10
+"271","Africa","Latin America",1996,3759,5,25,-15,-60
+"272","Asia","Latin America",1996,1069,30,100,-15,-60
+"273","Europe","Latin America",1996,760,50,10,-15,-60
+"275","North America","Latin America",1996,13,45,-100,-15,-60
+"276","Oceania","Latin America",1996,1,-20,135,-15,-60
+"277","Africa","North America",1996,68321,5,25,45,-100
+"278","Asia","North America",1996,304453,30,100,45,-100
+"279","Europe","North America",1996,232259,50,10,45,-100
+"280","Latin America","North America",1996,54789,-15,-60,45,-100
+"282","Oceania","North America",1996,308,-20,135,45,-100
+"283","Africa","Oceania",1996,6437,5,25,-20,135
+"284","Asia","Oceania",1996,41815,30,100,-20,135
+"285","Europe","Oceania",1996,27848,50,10,-20,135
+"286","Latin America","Oceania",1996,1313,-15,-60,-20,135
+"287","North America","Oceania",1996,4,45,-100,-20,135
+"290","Asia","Africa",1997,1161.5,30,100,5,25
+"291","Europe","Africa",1997,297,50,10,5,25
+"292","Latin America","Africa",1997,37,-15,-60,5,25
+"293","North America","Africa",1997,2,45,-100,5,25
+"294","Oceania","Africa",1997,1,-20,135,5,25
+"295","Africa","Asia",1997,51545.5,5,25,30,100
+"297","Europe","Asia",1997,2354,50,10,30,100
+"298","Latin America","Asia",1997,28,-15,-60,30,100
+"299","North America","Asia",1997,7,45,-100,30,100
+"300","Oceania","Asia",1997,4,-20,135,30,100
+"301","Africa","Europe",1997,138191,5,25,50,10
+"302","Asia","Europe",1997,498033.5,30,100,50,10
+"304","Latin America","Europe",1997,20781.5,-15,-60,50,10
+"305","North America","Europe",1997,107,45,-100,50,10
+"306","Oceania","Europe",1997,61,-20,135,50,10
+"307","Africa","Latin America",1997,3583,5,25,-15,-60
+"308","Asia","Latin America",1997,1510,30,100,-15,-60
+"309","Europe","Latin America",1997,783,50,10,-15,-60
+"311","North America","Latin America",1997,13,45,-100,-15,-60
+"312","Oceania","Latin America",1997,1,-20,135,-15,-60
+"313","Africa","North America",1997,69841,5,25,45,-100
+"314","Asia","North America",1997,263034,30,100,45,-100
+"315","Europe","North America",1997,283744,50,10,45,-100
+"316","Latin America","North America",1997,52935,-15,-60,45,-100
+"318","Oceania","North America",1997,328,-20,135,45,-100
+"319","Africa","Oceania",1997,7090,5,25,-20,135
+"320","Asia","Oceania",1997,38465,30,100,-20,135
+"321","Europe","Oceania",1997,28081,50,10,-20,135
+"322","Latin America","Oceania",1997,906,-15,-60,-20,135
+"323","North America","Oceania",1997,4,45,-100,-20,135
+"326","Asia","Africa",1998,858,30,100,5,25
+"327","Europe","Africa",1998,359,50,10,5,25
+"328","Latin America","Africa",1998,37.5,-15,-60,5,25
+"329","North America","Africa",1998,2,45,-100,5,25
+"330","Oceania","Africa",1998,2,-20,135,5,25
+"331","Africa","Asia",1998,71878,5,25,30,100
+"333","Europe","Asia",1998,1581,50,10,30,100
+"334","Latin America","Asia",1998,26,-15,-60,30,100
+"335","North America","Asia",1998,7,45,-100,30,100
+"336","Oceania","Asia",1998,4,-20,135,30,100
+"337","Africa","Europe",1998,130576.5,5,25,50,10
+"338","Asia","Europe",1998,413046.5,30,100,50,10
+"340","Latin America","Europe",1998,17852,-15,-60,50,10
+"341","North America","Europe",1998,122,45,-100,50,10
+"342","Oceania","Europe",1998,61,-20,135,50,10
+"343","Africa","Latin America",1998,3452,5,25,-15,-60
+"344","Asia","Latin America",1998,2244.5,30,100,-15,-60
+"345","Europe","Latin America",1998,734,50,10,-15,-60
+"347","North America","Latin America",1998,12,45,-100,-15,-60
+"348","Oceania","Latin America",1998,1,-20,135,-15,-60
+"349","Africa","North America",1998,74594,5,25,45,-100
+"350","Asia","North America",1998,221031,30,100,45,-100
+"351","Europe","North America",1998,291773,50,10,45,-100
+"352","Latin America","North America",1998,49542,-15,-60,45,-100
+"354","Oceania","North America",1998,290,-20,135,45,-100
+"355","Africa","Oceania",1998,8297,5,25,-20,135
+"356","Asia","Oceania",1998,38774,30,100,-20,135
+"357","Europe","Oceania",1998,30368,50,10,-20,135
+"358","Latin America","Oceania",1998,1063,-15,-60,-20,135
+"359","North America","Oceania",1998,3,45,-100,-20,135
+"362","Asia","Africa",1999,750.5,30,100,5,25
+"363","Europe","Africa",1999,345,50,10,5,25
+"364","Latin America","Africa",1999,34,-15,-60,5,25
+"365","North America","Africa",1999,2,45,-100,5,25
+"366","Oceania","Africa",1999,2,-20,135,5,25
+"367","Africa","Asia",1999,72412,5,25,30,100
+"369","Europe","Asia",1999,8337.5,50,10,30,100
+"370","Latin America","Asia",1999,22,-15,-60,30,100
+"371","North America","Asia",1999,6,45,-100,30,100
+"372","Oceania","Asia",1999,4,-20,135,30,100
+"373","Africa","Europe",1999,144005,5,25,50,10
+"374","Asia","Europe",1999,406825.5,30,100,50,10
+"376","Latin America","Europe",1999,12613.5,-15,-60,50,10
+"377","North America","Europe",1999,137,45,-100,50,10
+"378","Oceania","Europe",1999,62,-20,135,50,10
+"379","Africa","Latin America",1999,3513,5,25,-15,-60
+"380","Asia","Latin America",1999,2281.5,30,100,-15,-60
+"381","Europe","Latin America",1999,743,50,10,-15,-60
+"383","North America","Latin America",1999,12,45,-100,-15,-60
+"384","Oceania","Latin America",1999,1,-20,135,-15,-60
+"385","Africa","North America",1999,88062,5,25,45,-100
+"386","Asia","North America",1999,192414,30,100,45,-100
+"387","Europe","North America",1999,180274,50,10,45,-100
+"388","Latin America","North America",1999,44749,-15,-60,45,-100
+"390","Oceania","North America",1999,318,-20,135,45,-100
+"391","Africa","Oceania",1999,8524,5,25,-20,135
+"392","Asia","Oceania",1999,36122,30,100,-20,135
+"393","Europe","Oceania",1999,27975,50,10,-20,135
+"394","Latin America","Oceania",1999,979.5,-15,-60,-20,135
+"395","North America","Oceania",1999,4,45,-100,-20,135
+"398","Asia","Africa",2000,822,30,100,5,25
+"399","Europe","Africa",2000,313,50,10,5,25
+"400","Latin America","Africa",2000,35,-15,-60,5,25
+"401","North America","Africa",2000,2,45,-100,5,25
+"402","Oceania","Africa",2000,2,-20,135,5,25
+"403","Africa","Asia",2000,70795.5,5,25,30,100
+"405","Europe","Asia",2000,13976,50,10,30,100
+"406","Latin America","Asia",2000,21,-15,-60,30,100
+"407","North America","Asia",2000,6,45,-100,30,100
+"408","Oceania","Asia",2000,4,-20,135,30,100
+"409","Africa","Europe",2000,176045,5,25,50,10
+"410","Asia","Europe",2000,402682.5,30,100,50,10
+"412","Latin America","Europe",2000,12249.5,-15,-60,50,10
+"413","North America","Europe",2000,176,45,-100,50,10
+"414","Oceania","Europe",2000,63,-20,135,50,10
+"415","Africa","Latin America",2000,3810,5,25,-15,-60
+"416","Asia","Latin America",2000,2342.5,30,100,-15,-60
+"417","Europe","Latin America",2000,749,50,10,-15,-60
+"419","North America","Latin America",2000,11,45,-100,-15,-60
+"420","Oceania","Latin America",2000,1,-20,135,-15,-60
+"421","Africa","North America",2000,107574,5,25,45,-100
+"422","Asia","North America",2000,176631,30,100,45,-100
+"423","Europe","North America",2000,205700,50,10,45,-100
+"424","Latin America","North America",2000,41023,-15,-60,45,-100
+"426","Oceania","North America",2000,393,-20,135,45,-100
+"427","Africa","Oceania",2000,8882,5,25,-20,135
+"428","Asia","Oceania",2000,34484,30,100,-20,135
+"429","Europe","Oceania",2000,24608,50,10,-20,135
+"430","Latin America","Oceania",2000,818,-15,-60,-20,135
+"431","North America","Oceania",2000,3,45,-100,-20,135
+"434","Asia","Africa",2001,826,30,100,5,25
+"435","Europe","Africa",2001,322.5,50,10,5,25
+"436","Latin America","Africa",2001,32,-15,-60,5,25
+"437","North America","Africa",2001,2,45,-100,5,25
+"438","Oceania","Africa",2001,2,-20,135,5,25
+"439","Africa","Asia",2001,79976.5,5,25,30,100
+"441","Europe","Asia",2001,13176.5,50,10,30,100
+"442","Latin America","Asia",2001,26,-15,-60,30,100
+"443","North America","Asia",2001,5,45,-100,30,100
+"444","Oceania","Asia",2001,3,-20,135,30,100
+"445","Africa","Europe",2001,196685,5,25,50,10
+"446","Asia","Europe",2001,503418.5,30,100,50,10
+"448","Latin America","Europe",2001,12156,-15,-60,50,10
+"449","North America","Europe",2001,212,45,-100,50,10
+"450","Oceania","Europe",2001,64,-20,135,50,10
+"451","Africa","Latin America",2001,4058.5,5,25,-15,-60
+"452","Asia","Latin America",2001,2251,30,100,-15,-60
+"453","Europe","Latin America",2001,737.5,50,10,-15,-60
+"455","North America","Latin America",2001,12,45,-100,-15,-60
+"456","Oceania","Latin America",2001,1,-20,135,-15,-60
+"457","Africa","North America",2001,127934,5,25,45,-100
+"458","Asia","North America",2001,190097,30,100,45,-100
+"459","Europe","North America",2001,223885.5,50,10,45,-100
+"460","Latin America","North America",2001,44396,-15,-60,45,-100
+"462","Oceania","North America",2001,722,-20,135,45,-100
+"463","Africa","Oceania",2001,10212,5,25,-20,135
+"464","Asia","Oceania",2001,33444,30,100,-20,135
+"465","Europe","Oceania",2001,21255,50,10,-20,135
+"466","Latin America","Oceania",2001,730,-15,-60,-20,135
+"467","North America","Oceania",2001,4,45,-100,-20,135
+"470","Asia","Africa",2002,813.5,30,100,5,25
+"471","Europe","Africa",2002,265,50,10,5,25
+"472","Latin America","Africa",2002,33,-15,-60,5,25
+"473","North America","Africa",2002,1,45,-100,5,25
+"474","Oceania","Africa",2002,2,-20,135,5,25
+"475","Africa","Asia",2002,96024.5,5,25,30,100
+"477","Europe","Asia",2002,14960,50,10,30,100
+"478","Latin America","Asia",2002,20.5,-15,-60,30,100
+"479","North America","Asia",2002,4,45,-100,30,100
+"480","Oceania","Asia",2002,4,-20,135,30,100
+"481","Africa","Europe",2002,225611.5,5,25,50,10
+"482","Asia","Europe",2002,773945,30,100,50,10
+"484","Latin America","Europe",2002,12675,-15,-60,50,10
+"485","North America","Europe",2002,267,45,-100,50,10
+"486","Oceania","Europe",2002,70,-20,135,50,10
+"487","Africa","Latin America",2002,4244.5,5,25,-15,-60
+"488","Asia","Latin America",2002,2243.5,30,100,-15,-60
+"489","Europe","Latin America",2002,745.5,50,10,-15,-60
+"491","North America","Latin America",2002,10,45,-100,-15,-60
+"492","Oceania","Latin America",2002,1,-20,135,-15,-60
+"493","Africa","North America",2002,129076,5,25,45,-100
+"494","Asia","North America",2002,191898.5,30,100,45,-100
+"495","Europe","North America",2002,212742,50,10,45,-100
+"496","Latin America","North America",2002,48080,-15,-60,45,-100
+"498","Oceania","North America",2002,1060,-20,135,45,-100
+"499","Africa","Oceania",2002,12860,5,25,-20,135
+"500","Asia","Oceania",2002,34867,30,100,-20,135
+"501","Europe","Oceania",2002,19400,50,10,-20,135
+"502","Latin America","Oceania",2002,694,-15,-60,-20,135
+"503","North America","Oceania",2002,4,45,-100,-20,135
+"506","Asia","Africa",2003,833,30,100,5,25
+"507","Europe","Africa",2003,257,50,10,5,25
+"508","Latin America","Africa",2003,33,-15,-60,5,25
+"509","North America","Africa",2003,1,45,-100,5,25
+"510","Oceania","Africa",2003,2,-20,135,5,25
+"511","Africa","Asia",2003,82939,5,25,30,100
+"513","Europe","Asia",2003,14782,50,10,30,100
+"514","Latin America","Asia",2003,17,-15,-60,30,100
+"515","North America","Asia",2003,5,45,-100,30,100
+"516","Oceania","Asia",2003,2,-20,135,30,100
+"517","Africa","Europe",2003,236295,5,25,50,10
+"518","Asia","Europe",2003,756527,30,100,50,10
+"520","Latin America","Europe",2003,12523,-15,-60,50,10
+"521","North America","Europe",2003,283,45,-100,50,10
+"522","Oceania","Europe",2003,76,-20,135,50,10
+"523","Africa","Latin America",2003,4164,5,25,-15,-60
+"524","Asia","Latin America",2003,2254.5,30,100,-15,-60
+"525","Europe","Latin America",2003,761,50,10,-15,-60
+"527","North America","Latin America",2003,9,45,-100,-15,-60
+"528","Oceania","Latin America",2003,1,-20,135,-15,-60
+"529","Africa","North America",2003,128829,5,25,45,-100
+"530","Asia","North America",2003,177815,30,100,45,-100
+"531","Europe","North America",2003,182477,50,10,45,-100
+"532","Latin America","North America",2003,46825,-15,-60,45,-100
+"534","Oceania","North America",2003,1085,-20,135,45,-100
+"535","Africa","Oceania",2003,16900,5,25,-20,135
+"536","Asia","Oceania",2003,37652,30,100,-20,135
+"537","Europe","Oceania",2003,13384,50,10,-20,135
+"538","Latin America","Oceania",2003,360,-15,-60,-20,135
+"539","North America","Oceania",2003,5,45,-100,-20,135
+"542","Asia","Africa",2004,717,30,100,5,25
+"543","Europe","Africa",2004,280,50,10,5,25
+"544","Latin America","Africa",2004,27,-15,-60,5,25
+"545","North America","Africa",2004,1,45,-100,5,25
+"546","Oceania","Africa",2004,2,-20,135,5,25
+"547","Africa","Asia",2004,88715,5,25,30,100
+"549","Europe","Asia",2004,14763,50,10,30,100
+"550","Latin America","Asia",2004,5,-15,-60,30,100
+"551","North America","Asia",2004,4,45,-100,30,100
+"552","Oceania","Asia",2004,3,-20,135,30,100
+"553","Africa","Europe",2004,243332.5,5,25,50,10
+"554","Asia","Europe",2004,716728.5,30,100,50,10
+"556","Latin America","Europe",2004,11846.5,-15,-60,50,10
+"557","North America","Europe",2004,267,45,-100,50,10
+"558","Oceania","Europe",2004,72,-20,135,50,10
+"559","Africa","Latin America",2004,4318,5,25,-15,-60
+"560","Asia","Latin America",2004,2266,30,100,-15,-60
+"561","Europe","Latin America",2004,758,50,10,-15,-60
+"563","North America","Latin America",2004,9,45,-100,-15,-60
+"564","Oceania","Latin America",2004,1,-20,135,-15,-60
+"565","Africa","North America",2004,144850,5,25,45,-100
+"566","Asia","North America",2004,173213,30,100,45,-100
+"567","Europe","North America",2004,131037,50,10,45,-100
+"568","Latin America","North America",2004,54665,-15,-60,45,-100
+"570","Oceania","North America",2004,1278,-20,135,45,-100
+"571","Africa","Oceania",2004,26163,5,25,-20,135
+"572","Asia","Oceania",2004,39154,30,100,-20,135
+"573","Europe","Oceania",2004,9772,50,10,-20,135
+"574","Latin America","Oceania",2004,286,-15,-60,-20,135
+"575","North America","Oceania",2004,4,45,-100,-20,135
+"578","Asia","Africa",2005,665,30,100,5,25
+"579","Europe","Africa",2005,255,50,10,5,25
+"580","Latin America","Africa",2005,23,-15,-60,5,25
+"581","North America","Africa",2005,1,45,-100,5,25
+"582","Oceania","Africa",2005,2,-20,135,5,25
+"583","Africa","Asia",2005,102254,5,25,30,100
+"585","Europe","Asia",2005,5334.5,50,10,30,100
+"586","Latin America","Asia",2005,4,-15,-60,30,100
+"587","North America","Asia",2005,4,45,-100,30,100
+"588","Oceania","Asia",2005,1,-20,135,30,100
+"589","Africa","Europe",2005,271687,5,25,50,10
+"590","Asia","Europe",2005,679477,30,100,50,10
+"592","Latin America","Europe",2005,12394.5,-15,-60,50,10
+"593","North America","Europe",2005,234,45,-100,50,10
+"594","Oceania","Europe",2005,101,-20,135,50,10
+"595","Africa","Latin America",2005,4016,5,25,-15,-60
+"596","Asia","Latin America",2005,2322,30,100,-15,-60
+"597","Europe","Latin America",2005,792,50,10,-15,-60
+"599","North America","Latin America",2005,9,45,-100,-15,-60
+"600","Oceania","Latin America",2005,1,-20,135,-15,-60
+"601","Africa","North America",2005,154174,5,25,45,-100
+"602","Asia","North America",2005,184785,30,100,45,-100
+"603","Europe","North America",2005,106733,50,10,45,-100
+"604","Latin America","North America",2005,73922,-15,-60,45,-100
+"606","Oceania","North America",2005,1373,-20,135,45,-100
+"607","Africa","Oceania",2005,31366,5,25,-20,135
+"608","Asia","Oceania",2005,41890.5,30,100,-20,135
+"609","Europe","Oceania",2005,6025,50,10,-20,135
+"610","Latin America","Oceania",2005,250,-15,-60,-20,135
+"611","North America","Oceania",2005,3,45,-100,-20,135
+"614","Asia","Africa",2006,612,30,100,5,25
+"615","Europe","Africa",2006,232,50,10,5,25
+"616","Latin America","Africa",2006,20,-15,-60,5,25
+"617","North America","Africa",2006,1,45,-100,5,25
+"618","Oceania","Africa",2006,3,-20,135,5,25
+"619","Africa","Asia",2006,115940,5,25,30,100
+"621","Europe","Asia",2006,4043,50,10,30,100
+"622","Latin America","Asia",2006,3,-15,-60,30,100
+"623","North America","Asia",2006,4,45,-100,30,100
+"624","Oceania","Asia",2006,1,-20,135,30,100
+"625","Africa","Europe",2006,249568.5,5,25,50,10
+"626","Asia","Europe",2006,645267.5,30,100,50,10
+"628","Latin America","Europe",2006,14603,-15,-60,50,10
+"629","North America","Europe",2006,445,45,-100,50,10
+"630","Oceania","Europe",2006,87,-20,135,50,10
+"631","Africa","Latin America",2006,4012,5,25,-15,-60
+"632","Asia","Latin America",2006,2314.5,30,100,-15,-60
+"633","Europe","Latin America",2006,780,50,10,-15,-60
+"635","North America","Latin America",2006,8,45,-100,-15,-60
+"636","Oceania","Latin America",2006,1,-20,135,-15,-60
+"637","Africa","North America",2006,253376,5,25,45,-100
+"638","Asia","North America",2006,297513,30,100,45,-100
+"639","Europe","North America",2006,320243,50,10,45,-100
+"640","Latin America","North America",2006,114788,-15,-60,45,-100
+"642","Oceania","North America",2006,1684,-20,135,45,-100
+"643","Africa","Oceania",2006,36170,5,25,-20,135
+"644","Asia","Oceania",2006,43647,30,100,-20,135
+"645","Europe","Oceania",2006,3456,50,10,-20,135
+"646","Latin America","Oceania",2006,199,-15,-60,-20,135
+"647","North America","Oceania",2006,5,45,-100,-20,135
+"650","Asia","Africa",2007,1697,30,100,5,25
+"651","Europe","Africa",2007,221,50,10,5,25
+"652","Latin America","Africa",2007,19,-15,-60,5,25
+"653","North America","Africa",2007,2,45,-100,5,25
+"654","Oceania","Africa",2007,3,-20,135,5,25
+"655","Africa","Asia",2007,138385,5,25,30,100
+"657","Europe","Asia",2007,4022.5,50,10,30,100
+"658","Latin America","Asia",2007,3,-15,-60,30,100
+"659","North America","Asia",2007,4,45,-100,30,100
+"660","Oceania","Asia",2007,1,-20,135,30,100
+"661","Africa","Europe",2007,257410,5,25,50,10
+"662","Asia","Europe",2007,631652,30,100,50,10
+"664","Latin America","Europe",2007,14309,-15,-60,50,10
+"665","North America","Europe",2007,1124,45,-100,50,10
+"666","Oceania","Europe",2007,117,-20,135,50,10
+"667","Africa","Latin America",2007,4040,5,25,-15,-60
+"668","Asia","Latin America",2007,2486,30,100,-15,-60
+"669","Europe","Latin America",2007,789.5,50,10,-15,-60
+"671","North America","Latin America",2007,8,45,-100,-15,-60
+"672","Oceania","Latin America",2007,1,-20,135,-15,-60
+"673","Africa","North America",2007,110726,5,25,45,-100
+"674","Asia","North America",2007,189959,30,100,45,-100
+"675","Europe","North America",2007,53636,50,10,45,-100
+"676","Latin America","North America",2007,91195,-15,-60,45,-100
+"678","Oceania","North America",2007,1786,-20,135,45,-100
+"679","Africa","Oceania",2007,1465,5,25,-20,135
+"680","Asia","Oceania",2007,29515.5,30,100,-20,135
+"681","Europe","Oceania",2007,831,50,10,-20,135
+"682","Latin America","Oceania",2007,653,-15,-60,-20,135
+"683","North America","Oceania",2007,7,45,-100,-20,135
+"686","Asia","Africa",2008,2882,30,100,5,25
+"687","Europe","Africa",2008,207,50,10,5,25
+"688","Latin America","Africa",2008,18,-15,-60,5,25
+"689","North America","Africa",2008,2,45,-100,5,25
+"690","Oceania","Africa",2008,3,-20,135,5,25
+"691","Africa","Asia",2008,171388.5,5,25,30,100
+"693","Europe","Asia",2008,4015,50,10,30,100
+"694","Latin America","Asia",2008,3,-15,-60,30,100
+"695","North America","Asia",2008,4,45,-100,30,100
+"696","Oceania","Asia",2008,1,-20,135,30,100
+"697","Africa","Europe",2008,272558.5,5,25,50,10
+"698","Asia","Europe",2008,634221.5,30,100,50,10
+"700","Latin America","Europe",2008,13558,-15,-60,50,10
+"701","North America","Europe",2008,443,45,-100,50,10
+"702","Oceania","Europe",2008,91,-20,135,50,10
+"703","Africa","Latin America",2008,4063,5,25,-15,-60
+"704","Asia","Latin America",2008,1100,30,100,-15,-60
+"705","Europe","Latin America",2008,898,50,10,-15,-60
+"707","North America","Latin America",2008,9,45,-100,-15,-60
+"708","Oceania","Latin America",2008,1,-20,135,-15,-60
+"709","Africa","North America",2008,106449,5,25,45,-100
+"710","Asia","North America",2008,189211,30,100,45,-100
+"711","Europe","North America",2008,51500,50,10,45,-100
+"712","Latin America","North America",2008,94456,-15,-60,45,-100
+"714","Oceania","North America",2008,1832,-20,135,45,-100
+"715","Africa","Oceania",2008,1470,5,25,-20,135
+"716","Asia","Oceania",2008,29911.5,30,100,-20,135
+"717","Europe","Oceania",2008,763,50,10,-20,135
+"718","Latin America","Oceania",2008,345,-15,-60,-20,135
+"719","North America","Oceania",2008,11,45,-100,-20,135
+"722","Asia","Africa",2009,3516.5,30,100,5,25
+"723","Europe","Africa",2009,202,50,10,5,25
+"724","Latin America","Africa",2009,19,-15,-60,5,25
+"725","North America","Africa",2009,2,45,-100,5,25
+"726","Oceania","Africa",2009,3,-20,135,5,25
+"727","Africa","Asia",2009,208559,5,25,30,100
+"729","Europe","Asia",2009,3978,50,10,30,100
+"730","Latin America","Asia",2009,2,-15,-60,30,100
+"731","North America","Asia",2009,5,45,-100,30,100
+"732","Oceania","Asia",2009,1,-20,135,30,100
+"733","Africa","Europe",2009,307807,5,25,50,10
+"734","Asia","Europe",2009,621041.5,30,100,50,10
+"736","Latin America","Europe",2009,12106.5,-15,-60,50,10
+"737","North America","Europe",2009,389,45,-100,50,10
+"738","Oceania","Europe",2009,73,-20,135,50,10
+"739","Africa","Latin America",2009,4157,5,25,-15,-60
+"740","Asia","Latin America",2009,1235,30,100,-15,-60
+"741","Europe","Latin America",2009,919,50,10,-15,-60
+"743","North America","Latin America",2009,10,45,-100,-15,-60
+"744","Oceania","Latin America",2009,1,-20,135,-15,-60
+"745","Africa","North America",2009,100416,5,25,45,-100
+"746","Asia","North America",2009,188257,30,100,45,-100
+"747","Europe","North America",2009,48416,50,10,45,-100
+"748","Latin America","North America",2009,96684,-15,-60,45,-100
+"750","Oceania","North America",2009,1851,-20,135,45,-100
+"751","Africa","Oceania",2009,1830,5,25,-20,135
+"752","Asia","Oceania",2009,31642,30,100,-20,135
+"753","Europe","Oceania",2009,671,50,10,-20,135
+"754","Latin America","Oceania",2009,303,-15,-60,-20,135
+"755","North America","Oceania",2009,11,45,-100,-20,135
+"758","Asia","Africa",2010,3726,30,100,5,25
+"759","Europe","Africa",2010,192.5,50,10,5,25
+"760","Latin America","Africa",2010,19,-15,-60,5,25
+"761","North America","Africa",2010,2,45,-100,5,25
+"762","Oceania","Africa",2010,4,-20,135,5,25
+"763","Africa","Asia",2010,237456.5,5,25,30,100
+"765","Europe","Asia",2010,3932,50,10,30,100
+"766","Latin America","Asia",2010,2,-15,-60,30,100
+"767","North America","Asia",2010,5,45,-100,30,100
+"768","Oceania","Asia",2010,1,-20,135,30,100
+"769","Africa","Europe",2010,313223,5,25,50,10
+"770","Asia","Europe",2010,614432.5,30,100,50,10
+"772","Latin America","Europe",2010,11733,-15,-60,50,10
+"773","North America","Europe",2010,422,45,-100,50,10
+"774","Oceania","Europe",2010,87,-20,135,50,10
+"775","Africa","Latin America",2010,4204.5,5,25,-15,-60
+"776","Asia","Latin America",2010,1310,30,100,-15,-60
+"777","Europe","Latin America",2010,933,50,10,-15,-60
+"779","North America","Latin America",2010,11,45,-100,-15,-60
+"780","Oceania","Latin America",2010,1,-20,135,-15,-60
+"781","Africa","North America",2010,93420,5,25,45,-100
+"782","Asia","North America",2010,183490,30,100,45,-100
+"783","Europe","North America",2010,44528,50,10,45,-100
+"784","Latin America","North America",2010,98002,-15,-60,45,-100
+"786","Oceania","North America",2010,1751,-20,135,45,-100
+"787","Africa","Oceania",2010,2089,5,25,-20,135
+"788","Asia","Oceania",2010,30178,30,100,-20,135
+"789","Europe","Oceania",2010,494,50,10,-20,135
+"790","Latin America","Oceania",2010,256,-15,-60,-20,135
+"791","North America","Oceania",2010,9,45,-100,-20,135
+"794","Asia","Africa",2011,3841.5,30,100,5,25
+"795","Europe","Africa",2011,190,50,10,5,25
+"796","Latin America","Africa",2011,19,-15,-60,5,25
+"797","North America","Africa",2011,2,45,-100,5,25
+"798","Oceania","Africa",2011,4,-20,135,5,25
+"799","Africa","Asia",2011,279749,5,25,30,100
+"801","Europe","Asia",2011,220,50,10,30,100
+"802","Latin America","Asia",2011,3,-15,-60,30,100
+"803","North America","Asia",2011,6,45,-100,30,100
+"804","Oceania","Asia",2011,0,-20,135,30,100
+"805","Africa","Europe",2011,319572,5,25,50,10
+"806","Asia","Europe",2011,600081.5,30,100,50,10
+"808","Latin America","Europe",2011,12155,-15,-60,50,10
+"809","North America","Europe",2011,428,45,-100,50,10
+"810","Oceania","Europe",2011,87,-20,135,50,10
+"811","Africa","Latin America",2011,4302,5,25,-15,-60
+"812","Asia","Latin America",2011,1379.5,30,100,-15,-60
+"813","Europe","Latin America",2011,920,50,10,-15,-60
+"815","North America","Latin America",2011,10,45,-100,-15,-60
+"816","Oceania","Latin America",2011,1,-20,135,-15,-60
+"817","Africa","North America",2011,90318,5,25,45,-100
+"818","Asia","North America",2011,180543,30,100,45,-100
+"819","Europe","North America",2011,40058,50,10,45,-100
+"820","Latin America","North America",2011,107058,-15,-60,45,-100
+"822","Oceania","North America",2011,1406,-20,135,45,-100
+"823","Africa","Oceania",2011,2242,5,25,-20,135
+"824","Asia","Oceania",2011,30505.5,30,100,-20,135
+"825","Europe","Oceania",2011,462,50,10,-20,135
+"826","Latin America","Oceania",2011,241,-15,-60,-20,135
+"827","North America","Oceania",2011,8,45,-100,-20,135
+"830","Asia","Africa",2012,3580,30,100,5,25
+"831","Europe","Africa",2012,189,50,10,5,25
+"832","Latin America","Africa",2012,20,-15,-60,5,25
+"833","North America","Africa",2012,2,45,-100,5,25
+"834","Oceania","Africa",2012,5,-20,135,5,25
+"835","Africa","Asia",2012,312856,5,25,30,100
+"837","Europe","Asia",2012,217,50,10,30,100
+"838","Latin America","Asia",2012,4,-15,-60,30,100
+"839","North America","Asia",2012,8,45,-100,30,100
+"840","Oceania","Asia",2012,2,-20,135,30,100
+"841","Africa","Europe",2012,327949,5,25,50,10
+"842","Asia","Europe",2012,604019,30,100,50,10
+"844","Latin America","Europe",2012,11953,-15,-60,50,10
+"845","North America","Europe",2012,448,45,-100,50,10
+"846","Oceania","Europe",2012,98,-20,135,50,10
+"847","Africa","Latin America",2012,4331,5,25,-15,-60
+"848","Asia","Latin America",2012,1374,30,100,-15,-60
+"849","Europe","Latin America",2012,912,50,10,-15,-60
+"851","North America","Latin America",2012,14,45,-100,-15,-60
+"852","Oceania","Latin America",2012,1,-20,135,-15,-60
+"853","Africa","North America",2012,87028,5,25,45,-100
+"854","Asia","North America",2012,177570,30,100,45,-100
+"855","Europe","North America",2012,36832,50,10,45,-100
+"856","Latin America","North America",2012,111567,-15,-60,45,-100
+"858","Oceania","North America",2012,1072,-20,135,45,-100
+"859","Africa","Oceania",2012,2377,5,25,-20,135
+"860","Asia","Oceania",2012,36012.5,30,100,-20,135
+"861","Europe","Oceania",2012,416,50,10,-20,135
+"862","Latin America","Oceania",2012,205,-15,-60,-20,135
+"863","North America","Oceania",2012,9,45,-100,-20,135
+"866","Asia","Africa",2013,21394.5,30,100,5,25
+"867","Europe","Africa",2013,187.5,50,10,5,25
+"868","Latin America","Africa",2013,20,-15,-60,5,25
+"869","North America","Africa",2013,1,45,-100,5,25
+"870","Oceania","Africa",2013,6,-20,135,5,25
+"871","Africa","Asia",2013,317742.5,5,25,30,100
+"873","Europe","Asia",2013,212,50,10,30,100
+"874","Latin America","Asia",2013,5,-15,-60,30,100
+"875","North America","Asia",2013,1,45,-100,30,100
+"876","Oceania","Asia",2013,2,-20,135,30,100
+"877","Africa","Europe",2013,318504,5,25,50,10
+"878","Asia","Europe",2013,507657,30,100,50,10
+"880","Latin America","Europe",2013,10451,-15,-60,50,10
+"881","North America","Europe",2013,333,45,-100,50,10
+"882","Oceania","Europe",2013,76,-20,135,50,10
+"883","Africa","Latin America",2013,3958,5,25,-15,-60
+"884","Asia","Latin America",2013,1904,30,100,-15,-60
+"885","Europe","Latin America",2013,918,50,10,-15,-60
+"887","North America","Latin America",2013,14,45,-100,-15,-60
+"888","Oceania","Latin America",2013,1,-20,135,-15,-60
+"889","Africa","North America",2013,83763,5,25,45,-100
+"890","Asia","North America",2013,182242,30,100,45,-100
+"891","Europe","North America",2013,33631,50,10,45,-100
+"892","Latin America","North America",2013,110715,-15,-60,45,-100
+"894","Oceania","North America",2013,826,-20,135,45,-100
+"895","Africa","Oceania",2013,2543,5,25,-20,135
+"896","Asia","Oceania",2013,39713,30,100,-20,135
+"897","Europe","Oceania",2013,391,50,10,-20,135
+"898","Latin America","Oceania",2013,197,-15,-60,-20,135
+"899","North America","Oceania",2013,8,45,-100,-20,135
