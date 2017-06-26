@@ -54,7 +54,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                    <i class="fa fa-bars fa-2x"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
+                <a class="navbar-brand page-scroll" href="main#page-top">
                    <!-- <i class="fa fa-play-circle"></i>--> <span class="light">Home</span>
                 </a>
             </div>
