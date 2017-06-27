@@ -216,13 +216,14 @@
               </div>
               <h1>Regula Beltran</h1>
               <h2>Storytelling &amp; Visualization</h2>
-              <p>Regula Beltran holds BA UZH in Political Science and Contemporary History. In her MA studies in Political Science, she specializes on democratization and social movements in Latin America.</p>
+              <p>Regula Beltran holds BA UZH in Political Science and Contemporary History. In her MA studies in Political Science, she specializes in democratization and social movements in Latin America.</p>
             </div>
             <div class="col-lg-4 col-lg-4 col-lg-4 col-md-4 col-md-4 col-md-4 profile">
               <div class="img-box">
                 <img src="assets/img/sven.jpg" class="img-responsive">
                 <ul class="text-center">
                   <a href="https://twitter.com/sven_corn" target="_blank"><li><i class="fa fa-twitter"></i></li></a>
+                  <a href="https://www.linkedin.com/in/sven-cornehls/" target="_blank"><li><i class="fa fa-linkedin"></i></li></a>
                 </ul>
               </div>
               <h1>Sven Cornehls</h1>
