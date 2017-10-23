@@ -20,7 +20,7 @@
 
 <!-- Theme JavaScript -->
 <script src="assets/js/grayscale.min.js"></script>
-
+<script src="https://infobawards.s3.amazonaws.com/2017/sY4KNmNfUv.js" id="iib-awards-badge" data-project="2315"></script>
 </body>
 
 </html>
